@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/FCC-Tribute-Page/static/css/main.0362955b.css",
+    "main.js": "/FCC-Tribute-Page/static/js/main.b8e8bdea.js",
+    "static/js/787.497daacb.chunk.js": "/FCC-Tribute-Page/static/js/787.497daacb.chunk.js",
+    "index.html": "/FCC-Tribute-Page/index.html",
+    "main.0362955b.css.map": "/FCC-Tribute-Page/static/css/main.0362955b.css.map",
+    "main.b8e8bdea.js.map": "/FCC-Tribute-Page/static/js/main.b8e8bdea.js.map",
+    "787.497daacb.chunk.js.map": "/FCC-Tribute-Page/static/js/787.497daacb.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.0362955b.css",
+    "static/js/main.b8e8bdea.js"
+  ]
+}
